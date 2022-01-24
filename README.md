@@ -1,5 +1,5 @@
 # polls-app
-## Django App ( Polls App ) ( documentation )
+## Django App ( Polls App )
 - Part 1: Requests and responses
 - Part 2: Models and the admin site
 - Part 3: Views and templates ( should be able to complete up to this spot by Monday )
