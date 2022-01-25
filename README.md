@@ -6,4 +6,4 @@
 - Part 4: Forms and generic views: https://docs.djangoproject.com/en/4.0/intro/tutorial04/ 
 - Part 5: Testing: https://docs.djangoproject.com/en/4.0/intro/tutorial05/
 - Part 6: Static files: https://docs.djangoproject.com/en/4.0/intro/tutorial06/ 
-- Part 7: Customizing the admin site
+- Part 7: Customizing the admin site: https://docs.djangoproject.com/en/4.0/intro/tutorial07/
